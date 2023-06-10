@@ -1,0 +1,2 @@
+# Physics-CBT
+The JAMB Physics Test Simulator was my first programming project back in the year 2016. It is a comprehensive computer-based test application designed specifically for students preparing to take the Physics test of the Joint Admission and Matriculation Board (JAMB). Built using the Java programming language, this application offers an immersive and realistic exam experience, allowing students to assess their preparedness and enhance their performance in the Physics section of the JAMB examination.
